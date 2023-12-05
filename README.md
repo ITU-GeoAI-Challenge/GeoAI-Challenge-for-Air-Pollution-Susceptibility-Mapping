@@ -27,7 +27,8 @@ This repository contains the following files
      
   5. requirements.txt- has the module version required to run the notebook successfuly
      
-  7. lgb_sub.csv - contains the predictions for our proposed model
+  6. lgb_sub.csv - contains the predictions for our proposed model
+  7. Grand Final Presentation Power point - GeoAI Air Quality Susepcitibility.pptx
 
 Order of Running the Files
   1. Ensure all files are residing in the same folder. I run them on conda environment in my computer
